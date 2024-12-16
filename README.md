@@ -1,1 +1,4 @@
 # LewisNClark
+
+Author: Izabella Stemp
+
